@@ -1,14 +1,30 @@
+
 .header{
     height: 100px;
     background-color: #fd79a8;
 }
 
 .main{
-    height: 300px;
+    height: 1000px;
     background-color: #00b894;
 }
 
 .footer{
     height: 100px;
     background-color: #e84118;
+}
+
+.up{
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    background-color: green;
+    position: fixed;
+    right :20px;
+    bottom : 30px;
+    text-align: center;
+    a{
+        text-decoration: none;
+        color: white;
+    }
 }
